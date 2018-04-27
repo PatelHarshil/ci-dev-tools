@@ -5,12 +5,13 @@ Boost Your Rapid Development Process For `CodeIgniter Framework`.
 
 ## User Guide
 
-**ci-dev-tool** is intentionally created to power-up your development process.
-This is a collection of **pre-made snippets** & some **ready made code examples** aiming to help you in your development journy.
+**ci-dev-tools** is intentionally created to power-up your development process.
+This is a collection of **snippets** & some **ready made code examples** aiming to help you in your development journy.
 
 
 |Prefix|Description|
 |--------|-----------|
+|`ci-defined`|`defined('BASEPATH') OR exit('No direct script access allowed');`|
 |`ci-model`| CI_Model|
 |`ci-controller`| CI_Controller|
 |`ci-load-model`| Load Model|
