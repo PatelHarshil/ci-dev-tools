@@ -7,7 +7,7 @@ Boost Your Rapid Development Process For `CodeIgniter Framework`.
 
 ## User Guide
 
-**ci-dev-tools** is intentionally created to power-up your development process.
+**ci-dev-tools** is intentionally created to power-up your development process.</br>
 This is a collection of **snippets** & some **ready made code examples**, aiming to help you in your development journey.
 
 
@@ -32,12 +32,12 @@ This is a collection of **snippets** & some **ready made code examples**, aiming
 ## How To Install?
 
 ### Linux
-**Step-1 :** Unzip The File.</br>
-**Step-2 :** Now Create a Folder Named " HarshilPatel.ci-dev-tools-0.0.1 " & Copy all Unziped Files Into It.</br>
-**Step-3 :** Now Move/Copy This Folder Into `VS Code Extention` Directory. Example : `/home/user/.vscode/extensions/`.</br>
+**Step-1 :** Unzip the file.</br>
+**Step-2 :** Now create a folder named " HarshilPatel.ci-dev-tools-0.0.1 " & copy all unziped files Into It.</br>
+**Step-3 :** Now move/copy this folder Into `VS Code Extention` directory. Example : `/home/user/.vscode/extensions/`.</br>
 
 ### Windows & MacOS
-Same as Linux. Just Look Your `VS Code Extention` Directory as Per Your OS.
+Same as Linux. Just find your `VS Code Extention` directory as per your Operating System and move/copy Into It.
 
 
 
