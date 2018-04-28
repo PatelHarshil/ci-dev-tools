@@ -23,6 +23,7 @@ This is a collection of **snippets** & some **ready made code examples**, aiming
 |`ci-load-libraries`| Load Multiple Libraries|
 |`ci-load-helper`| Load Helper|
 |`ci-load-helpers`| Load Multiple Helpers|
+|`ci-load-my-helper`| Load Custom Helper|
 |`ci-load-driver`| Load Driver|
 |`ci-lib-email`| E-Mail Library|
 
