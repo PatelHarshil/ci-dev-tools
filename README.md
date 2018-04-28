@@ -1,4 +1,4 @@
-# ci-dev-tools By Harshil Patel
+# ci-dev-tools
 
 Boost Your Rapid Development Process For `CodeIgniter Framework`.
 
