@@ -31,12 +31,14 @@ This is a collection of **snippets** & some **ready made code examples**, aiming
 
 ## How To Install?
 
-### Linux
+### For Linux
 **Step-1 :** Unzip the file.</br>
 **Step-2 :** Now create a folder named " HarshilPatel.ci-dev-tools-0.0.1 " & copy all unziped files Into It.</br>
 **Step-3 :** Now move/copy this folder Into `VS Code Extention` directory. Example : `/home/user/.vscode/extensions/`.</br>
 
-### Windows & MacOS
+***[ Please note that, folder name should be same as per given in setp-2. ]***
+
+### For Windows & MacOS
 Same as Linux. Just find your `VS Code Extention` directory as per your Operating System and move/copy Into It.
 
 
